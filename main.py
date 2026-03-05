@@ -1,4 +1,4 @@
-port ccxt, time, pandas as pd, pandas_ta as ta, requests, json
+import ccxt, time, pandas as pd, pandas_ta as ta, requests, json
 from datetime import datetime, timedelta
 
 # --- [ إعدادات الاتصال ] ---
